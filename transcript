@@ -1,0 +1,94 @@
+# Compile of 4bit_alu.v was successful.
+vsim -gui work.bit4_alu_tb
+# vsim -gui work.bit4_alu_tb 
+# Start time: 19:45:20 on Mar 04,2026
+# Loading work.bit4_alu_tb
+# Loading work.bit4_alu
+# Loading work.add_4bit
+# Loading work.and_gate4
+# Loading work.exor_gate4
+# Loading work.sub_4bit
+# Loading work.not_gate4
+# Loading work.or_gate4
+# Loading work.inc_4bit
+# Loading work.dec_4bit
+add wave sim:/bit4_alu_tb/*
+run -all
+force -freeze sim:/bit4_alu_tb/opcode 110 100ns
+run 100
+# Compile of 4bit_alu.v was successful.
+add wave sim:/bit4_alu_tb/*
+run -all
+vsim -gui work.bit4_alu_tb
+# End time: 20:11:16 on Mar 04,2026, Elapsed time: 0:25:56
+# Errors: 0, Warnings: 3
+# vsim -gui work.bit4_alu_tb 
+# Start time: 20:11:16 on Mar 04,2026
+# Loading work.bit4_alu_tb
+# Loading work.bit4_alu
+# Loading work.add_4bit
+# Loading work.and_gate4
+# Loading work.exor_gate4
+# Loading work.sub_4bit
+# Loading work.not_gate4
+# Loading work.or_gate4
+# Loading work.inc_4bit
+# Loading work.dec_4bit
+add wave sim:/bit4_alu_tb/*
+run -all
+# Compile of 4bit_alu.v was successful.
+vsim -gui work.bit4_alu_tb
+# End time: 20:14:41 on Mar 04,2026, Elapsed time: 0:03:25
+# Errors: 0, Warnings: 2
+# vsim -gui work.bit4_alu_tb 
+# Start time: 20:14:41 on Mar 04,2026
+# Loading work.bit4_alu_tb
+# Loading work.bit4_alu
+# Loading work.add_4bit
+# Loading work.and_gate4
+# Loading work.exor_gate4
+# Loading work.sub_4bit
+# Loading work.not_gate4
+# Loading work.or_gate4
+# Loading work.inc_4bit
+# Loading work.dec_4bit
+add wave sim:/bit4_alu_tb/*
+run -all
+# Compile of 4bit_alu.v was successful.
+vsim -gui work.bit4_alu_tb
+# End time: 20:21:47 on Mar 04,2026, Elapsed time: 0:07:06
+# Errors: 0, Warnings: 2
+# vsim -gui work.bit4_alu_tb 
+# Start time: 20:21:47 on Mar 04,2026
+# Loading work.bit4_alu_tb
+# Loading work.bit4_alu
+# Loading work.add_4bit
+# Loading work.and_gate4
+# Loading work.exor_gate4
+# Loading work.sub_4bit
+# Loading work.not_gate4
+# Loading work.or_gate4
+# Loading work.inc_4bit
+# Loading work.dec_4bit
+add wave sim:/bit4_alu_tb/*
+run -all
+# Compile of 4bit_alu.v was successful.
+# Compile of 4bit_aluTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.bit4_alu_tb
+# End time: 20:51:02 on Mar 04,2026, Elapsed time: 0:29:15
+# Errors: 0, Warnings: 3
+# vsim -gui work.bit4_alu_tb 
+# Start time: 20:51:02 on Mar 04,2026
+# Loading work.bit4_alu_tb
+# Loading work.bit4_alu
+# Loading work.add_4bit
+# Loading work.and_gate4
+# Loading work.exor_gate4
+# Loading work.sub_4bit
+# Loading work.not_gate4
+# Loading work.or_gate4
+# Loading work.inc_4bit
+# Loading work.dec_4bit
+add wave sim:/bit4_alu_tb/*
+run -all
