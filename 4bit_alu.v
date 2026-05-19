@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module bit4_alu
 (
     input en,
