@@ -79,12 +79,16 @@ The ALU was verified using a Verilog testbench by applying different input combi
 
 ## Waveform Result
 
-## Waveform Output
 
-![Waveform](waveform.png)
+![Waveform](diagram.png)
 
 ---
 
+## Schematic Design
+
+![design](design.png)
+
+---
 **Rohit Baskey**
 
 Verilog HDL Project — 4-bit ALU Design
